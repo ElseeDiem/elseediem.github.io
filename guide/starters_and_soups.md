@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Starters & Soups
-nav_order: 2
+parent: Automation Guide
+nav_order: 1
 ---
 
 # Starters & Soups

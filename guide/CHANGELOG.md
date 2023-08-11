@@ -1,6 +1,7 @@
 ---
 title: CHANGELOG
 layout: default
+parent: Automation Guide
 ---
 
 # CHANGELOG

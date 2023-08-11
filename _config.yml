@@ -21,7 +21,7 @@
 
 
 
-title: PlateUp Automation Guide
+title: Elsee
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -34,6 +34,8 @@ theme: just-the-docs # https://just-the-docs.github.io/just-the-docs
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/elsee.png"
 
 # Theme Config
 color_scheme: dark

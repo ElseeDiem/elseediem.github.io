@@ -10,6 +10,7 @@ has_children: true
 by Elsee - Version 1.1
 
 ## Preface
+
 This guide has been compiled over the course of ~100 hours of designing, testing, writing, refining, redesigning, crying, designing again, and cursing at Potato Salad, Crab Cakes, Stir Fry, and especially Breakfast Beans. Please use this guide as you see fit, either in its entirety or refer to specific sections as needed.
 
 Feedback is appreciated and encouraged, despite my many hours both in and out of the game; I know there is always room for improvement. I can be contacted on [Twitch](https://twitch.tv/Elsee), [Discord](ElseeDiem), or [Twitter](https://twitter.com/ElseeDiem).

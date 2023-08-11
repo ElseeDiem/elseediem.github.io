@@ -19,4 +19,4 @@ Most soups can cook faster by chopping the ingredients. The chop time and reduce
 
 This is a guide with an image
 
-![image tooltip here](</assets/images/Ketchup Mustard.png>)
+![image tooltip here](/assets/images/guide/starters/bread_board_danger.png)

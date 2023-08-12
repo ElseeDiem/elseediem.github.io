@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Starters & Soups
+title: Starters
 parent: Automation Guide
 nav_order: 1
 ---
 
-# Starters & Soups
+# Soups
 
 All 5 soups have a common step of first making broth and leaving empty broth when all soup portions are removed. The empty broth cooks much faster, so it is recommended to store soups in a freezer. This also gives you more pots each day, as the pot stack is refilled to 3 pots while keeping the frozen pot. This also removes the need to add new onion each time.
 

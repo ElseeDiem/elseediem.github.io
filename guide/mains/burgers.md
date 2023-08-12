@@ -1,23 +1,23 @@
 ---
 layout: default
 title: Burgers
-parent: Automation Guide
-nav_order: 2
+parent: Mains
+grand_parent: Automation Guide
+nav_order: 1
 ---
 
 # Burgers
 
 Burgers have the largest customer increase (+30%) of Mains. To keep up with hungry crowds, the automation has "gotta go fast" like Sonic The Hedgehog.
 
-![Burger Image](</assets/images/guide/mains/burgers/burgers.png>)
-
+![burgers.png](/assets/images/guide/mains/burgers/burgers.png "Hovertext")
 
 ## Cheeseburgers + Extras
 
 **Cheeseburgers** and **Burger Extras** have all been included in one handy design. The design is small enough to include both cards.
 This also shows off the “tomato slice trick” of pushing tomato sauce/paste into the bin when it over chops the tomato to continue making tomato slices.
 
-![Burger Image](</assets/images/guide/mains/burgers/burgers_toppings.png>)
+![Burger Image](</assets/images/guide/mains/burgers/burger_toppings.png>)
 
 
 ## Fresh Patties
@@ -40,3 +40,6 @@ The left half makes fresh patty burgers as fast as the danger hob can cook; The 
 You can move the left half down 1 tile so all the freps line up, dealer/reader’s choice.
 
 ![Burger Image](</assets/images/guide/mains/burgers/burgers_full.png>)
+
+Add random stuff to burgers
+foo

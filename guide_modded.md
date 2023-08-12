@@ -1,11 +1,11 @@
 ---
-title: Automation Guide
+title: Modded Automation Guide
 layout: default
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
-<h1>Automation Guide</h1>
+# Automation Guide
 
 by Elsee - Version 1.1
 
@@ -30,3 +30,5 @@ This document is never finalized, and will continuously be updated with new and 
 ## Alternate Versions
 
 [Word Doc Guide](https://docs.google.com/document/d/1WJzrkQvAoTiJhKrwLUdHFaNtceOxgE7qL6FoMPwQOAE)
+
+autosave

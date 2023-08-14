@@ -1,9 +1,9 @@
 ---
 layout: default
-title: {*Recipe*}
-parent: Automation Guide
+title: Steak
+parent: Mains
 grand_parent: Automation Guide
-nav_order: *#*
+nav_order: *1*
 ---
 
 # *Recipe*

@@ -6,6 +6,11 @@ nav_order: 1
 
 # Elsee
 
-A Description about who you are and why people should care
+- 100+ designs are being uploaded
+- 24 pages of content and counting
+- 4500 words describing designs
+- 100+ estimated hours of work
+- 1000+ hours of play time. Who knows how much was just automation
+
 
 ## Contact

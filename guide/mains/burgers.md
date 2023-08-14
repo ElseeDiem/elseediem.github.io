@@ -3,7 +3,7 @@ layout: default
 title: Burgers
 parent: Mains
 grand_parent: Automation Guide
-nav_order: 1
+nav_order: 2
 ---
 
 # Burgers

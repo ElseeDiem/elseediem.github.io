@@ -3,7 +3,7 @@ layout: default
 title: Steak
 parent: Mains
 grand_parent: Automation Guide
-nav_order: *1*
+nav_order: 9
 ---
 
 # *Recipe*

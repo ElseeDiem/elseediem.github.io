@@ -1,9 +1,9 @@
 ---
 layout: default
-title: {*Recipe*}
-parent: Automation Guide
+title: Pies
+parent: Mains
 grand_parent: Automation Guide
-nav_order: *#*
+nav_order: 6
 ---
 
 # *Recipe*
@@ -11,7 +11,6 @@ nav_order: *#*
 *Discussion of Recipe*
 
 ![*Automation image of main*](</assets/images/guide/mains/generic/generic.png>)
-    Cost goes here
 
 
 ## *Extra Card*
@@ -19,4 +18,3 @@ nav_order: *#*
 *Discussion of extra card*
 
 ![*Automation image of extra*](</assets/images/guide/mains/generic/generic.png>)
-    Cost goes here

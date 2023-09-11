@@ -6,15 +6,37 @@ grand_parent: Automation Guide
 nav_order: 11
 ---
 
-# *Recipe*
+# Turkey
 
-*Discussion of Recipe*
+Just like cars, Turkey has a classic design or fast design. The latter was made famous in the automation comp. Turkey carcass goes into the bin ONLY when the portioning stops (the grabber will wait its turn). Portion off the grabber instead of the hob so a second turkey cooks while the first one portions.
 
-![*Automation image of main*](</assets/images/guide/mains/generic/generic.png>)
+In the fast design: the first compactor bin empties faster than turkey burns, and the second compactor bin disposes of the carcass
+
+![turkey.png](</assets/images/guide/mains/turkey/turkey.png>)
+
+![turkey_fast.png](</assets/images/guide/mains/turkey/turkey_fast.png>)
 
 
-## *Extra Card*
+## Cranberry Sauce
 
-*Discussion of extra card*
+![turkey_cranberry.png](</assets/images/guide/mains/turkey/turkey_cranberry.png>)
 
-![*Automation image of extra*](</assets/images/guide/mains/generic/generic.png>)
+
+## Turkey Stuffing
+
+The best way to automate Stuffing is to just avoid taking the recipe. This is the second best way.
+
+Portion off the grabber instead of the hob so a second bread cooks while the first one portions. This also stops a slice toasting into toast which won't be portioned.
+
+
+![turkey_stuffing_2.png](</assets/images/guide/mains/turkey/turkey_stuffing_2.png>)
+
+
+## Gravy
+
+
+Just do gravy manually every few days. Please. Gravy has as many portions as Mash, but will last much longer because it’s a topping.
+
+Set the bottom smart grabber to a full gravy, and the right smart grabber to an empty broth.
+
+![turkey_gravy.png](</assets/images/guide/mains/turkey/turkey_gravy.png>)

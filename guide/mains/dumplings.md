@@ -6,15 +6,21 @@ grand_parent: Automation Guide
 nav_order: 3
 ---
 
-# *Recipe*
+# Dumplings
 
-*Discussion of Recipe*
+Dumplings can alternatively be made with a rapid mixer and safety hob, but it doesn’t significantly improve the production rate. It’s better to just make a replica system.
 
-![*Automation image of main*](</assets/images/guide/mains/generic/generic.png>)
+![dumplings.png](</assets/images/guide/mains/dumplings/dumplings.png>)
 
 
-## *Extra Card*
+## Seaweed
 
-*Discussion of extra card*
+Not much to say...cook the seaweed, serve the seaweed
 
-![*Automation image of extra*](</assets/images/guide/mains/generic/generic.png>)
+![dumplings_seaweed.png](</assets/images/guide/mains/dumplings/dumplings_seaweed.png>)
+
+## Soy Sauce
+
+Sauces can be auto served by placing it on a conveyor next to a table. Customers will use the ketchup/mustard bottle without it moving from the conveyor. Conveyor for manual placement
+
+![hot_dogs_sauce.png](</assets/images/guide/mains/hot_dogs/hot_dogs_sauce.png>)

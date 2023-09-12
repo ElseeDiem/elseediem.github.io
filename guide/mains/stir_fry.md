@@ -10,7 +10,7 @@ nav_order: 10
 
 Stir Fry is possible to fully automate but the full setup is excessive, even for the largest modded maps. Several designs are included for increasing the automation in steps.
 
-Most of these designs involve a “criss-cross” method of manually adding the second ingredient into 1 ingredient stir fry as needed. All designs also require manually placing woks, just once at the start of each day.
+Most of these designs involve a “criss-cross (apple sauce)” method of manually adding the second ingredient into 1 ingredient stir fry as needed. All designs also require manually placing woks, just once at the start of each day.
 
 These designs can also be modified for mushroom and meat stir fry cards. A rapid mixer is recommended for meat with its longer chop time, if space allows. Bamboo requires slightly more work, but can be cooked at the same time as the rice in the wok.
 

@@ -10,7 +10,7 @@ nav_order: 4
 
 Fish automation is almost identical for 4 out of 6 fish. Spiny fish makes things a little trickier, but then crab cakes mess up everything. There’s designs for players who just avoid crab cakes, because I know how much everyone hates Crab Cakes.
 
-![MISSING IMAGE](</assets/images/guide/mains/fish/fishs.png>)
+![fish_start.png](</assets/images/guide/mains/fish/fish_start.png>)
 
 Don’t like crab cakes? Here are the designs for you! Fish can be very compact shown above, but blue fish are often cooked too slowly. If you have the Need for Speed (and the space), try the design below
 

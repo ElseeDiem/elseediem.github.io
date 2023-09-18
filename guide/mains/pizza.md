@@ -10,6 +10,7 @@ nav_order: 7
 
 “Soggy crust” is a technique to instantly make a crust by putting oil in a sink and using flour on it. The oil isn’t in the sink here, but it’s the same idea. Set the smart grabber to pizza crust so you don’t make accidental bread.
 
+## Cheese Pizza
 ![pizza.png](</assets/images/guide/mains/pizza/pizza.png>)
 
 

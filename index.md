@@ -20,17 +20,17 @@ This document is never finalized, and will continuously be updated with new and 
 ## Roadmap
 
 - Bakery Foods
+- Improve existing designs
+- 2 loop soups
 - Modded Food Automation Guide (in progress)
 - Icons on Smart Grabbers
 - Automated Dishwashing
-- Auto Bussing Tables (removing plates)
+- Auto bussing tables (removing plates)
 - Auto serving dishes
 - Automated Ice Cream (yes, really)
 
 ### Contains: 
 - 100+ designs
-- 100+ hours
+- 100+ hours of work
+- 1000+ hours of experience
 - 4500+ words
-
-
-## Contact

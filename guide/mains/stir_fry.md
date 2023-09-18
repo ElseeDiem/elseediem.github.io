@@ -26,9 +26,12 @@ The second setup automatically adds rice and chopped ingredients into the woks. 
 
 ## Extra Flavours
 
-The third setup automatically chops and prepares all ingredients in a neat line across from hobs. The rice and woks are still manual, but rice can be automated as shown below if access isn’t needed from the other side.
+The third setup automatically chops and prepares all ingredients in a neat line across from the hobs. The rice and woks are still manual, but rice can be automated as shown in the following design if access isn’t needed from the other side.
 
-![stir_fry_3.png](</assets/images/guide/mains/stir_fry/stir_fry_3.png>)
+![stir_fry_4.png](</assets/images/guide/mains/stir_fry/stir_fry_4.png>)
+
+![stir_fry_5.png](</assets/images/guide/mains/stir_fry/stir_fry_5.png>)
+
 
 ## Soy Sauce
 

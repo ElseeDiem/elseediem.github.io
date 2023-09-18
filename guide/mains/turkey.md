@@ -19,6 +19,8 @@ In the fast design: the first compactor bin empties faster than turkey burns, an
 
 ## Cranberry Sauce
 
+Ahhh, the friendly Turkey extra. Easy to make, easier to automate, and a nice change of pace stuffed between Gravy and ...well Stuffing.
+
 ![turkey_cranberry.png](</assets/images/guide/mains/turkey/turkey_cranberry.png>)
 
 

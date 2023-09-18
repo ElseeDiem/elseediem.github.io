@@ -35,8 +35,6 @@ The second design here is slower, but smaller, and simpler; yet we love it all t
 
 Now let’s put all the steps of this dance together and see how it looks: complex, but could be worse.
 
-The left half makes fresh patty burgers as fast as the danger hob can cook; The right half makes all toppings, with tomato slices automation speed turned up to 11!
-
-You can move the left half down 1 tile so all the freps line up, dealer/reader’s choice.
+The left half makes fresh patty burgers as fast as the danger hob can cook; The right half makes all toppings. Add an extra compactor bin on the right column to turn tomato slices automation speed turned up to 11!
 
 ![burgers_full.png](</assets/images/guide/mains/burgers/burgers_full.png>)

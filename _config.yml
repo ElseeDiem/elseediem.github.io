@@ -21,12 +21,11 @@
 
 
 
-title: Elsee
+title: Automation Guide
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  PlateUp! Automation Guide, navigate through 100s of designs,
+  for base game recipes, modded recipes, serving, washing, and more!
 url: https://elseediem.github.io # the base hostname & protocol for your site
 
 # Build settings
@@ -42,13 +41,17 @@ color_scheme: dark
 
 # Aux links for the upper right navigation
 aux_links:
-  "See Elsee on Twitch":
+  "See the author on Twitch":
     - "https://www.twitch.tv/elsee"
 
 # External navigation links
 nav_external_links:
-  - title: Elsee @ Discord
+  - title: Automation Guide Discord
     url: https://discord.gg/dZPZs5EqgD
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+    
+  - title: Donate to the Author!
+    url: https://ko-fi.com/elsee
     hide_icon: true # set to true to hide the external link icon - defaults to false
 
 

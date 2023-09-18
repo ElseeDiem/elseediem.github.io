@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bamboo
+title: Onion Rings
 parent: Sides
 grand_parent: Automation Guide
 nav_order: 5

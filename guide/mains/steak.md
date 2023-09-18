@@ -22,7 +22,7 @@ The second design does thick cut steaks faster without burning. Unless you consi
 
 ## Steak Sauces
 
-These designs work for Wine Jus as well, just don’t put the wine in the mixer. It should stirred, not shaken, James Bond.
+These designs work for Wine Jus as well, just don’t put the wine in the mixer. It should be stirred, not shaken, James Bond.
 
 ![steak_sauce_mushroom.png](</assets/images/guide/mains/steak/steak_sauce_mushroom.png>)
 

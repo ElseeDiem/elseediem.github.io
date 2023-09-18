@@ -40,3 +40,6 @@ Just do gravy manually every few days. Please. Gravy has as many portions as Mas
 Set the bottom smart grabber to a full gravy, and the right smart grabber to an empty broth.
 
 ![turkey_gravy.png](</assets/images/guide/mains/turkey/turkey_gravy.png>)
+
+## [Christmas Crackers](https://elseediem.com/guide/starters/crackers.html)
+Quick shortcut to the Christmas Crackers page, as Turkey is required to get Crackers

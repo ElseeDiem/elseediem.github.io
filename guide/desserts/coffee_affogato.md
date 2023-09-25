@@ -12,11 +12,6 @@ Coffee and Affogato are combined here, because affogato requires coffee without 
 
 The first design is for Coffee alone with one coffee machine. Prioritise a second coffee machine blueprint if you're planning to automate it.
 
-The second design is semi-automatic, preparing full coffee mugs, using those for black coffee and affogato. 
-
-The last design is fully automatic for both black coffee and affogato, and is useful for auto serving as well.
-
-
 ![coffee_single.png](</assets/images/guide/desserts/coffee_single.png>)
 
 The second design is semi-automatic, preparing full coffee mugs, using those for black coffee and affogato. 

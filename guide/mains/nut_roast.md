@@ -7,7 +7,7 @@ nav_order: 12
 ---
 # Nut Roast
 
-Nut Roast used to only be available through Autumn maps or Turkey runs, but is 
+Nut Roast is only available through Autumn maps or Turkey runs, but is included here as a new main for simplicity.
 
 Nut Roast has long process times for both chopping nuts, and cooking time, but only makes 3 portions. As such, faster but larger designs are included if more compact designs aren't sufficient. 
 

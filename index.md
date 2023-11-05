@@ -21,7 +21,7 @@ This document is never finalized, and will continuously be updated with new and 
 
 - Bakery Foods
 - Improve existing designs
-- 2 loop soups
+- ~~2 loop soups~~
 - Modded Food Automation Guide (in progress)
 - Icons on Smart Grabbers
 - Automated Dishwashing

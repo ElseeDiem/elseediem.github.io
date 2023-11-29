@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Bread
+title: Bread Boards
 parent: Starters
 grand_parent: Automation Guide
 nav_order: 1
 ---
 
-# Bread
+# Bread Boards
 
 There are 2 designs for bread boards. The first design uses a freezer to store bread. While not entirely necessary, it's highly recommended to get the starter out faster.
 
@@ -16,9 +16,11 @@ A danger hob AND a freezer could both be used if you want a lot of bread! (or if
 
 ## Freezer
 ![bread_board_freezer.png](/assets/images/guide/starters/bread_board_freezer.png) 
-   3 grabber, 2 rotating, 1 safety, 2 combiner, 1 portioner, 1 sink, 1 freezer, boards
+   
+    3 grabber, 2 rotating, 1 safety, 2 combiner, 1 portioner, 1 sink, 1 freezer, boards
 
 
 ## Danger Hob
 ![bread_board_danger.png](/assets/images/guide/starters/bread_board_danger.png)
+    
     2 grabber, 3 rotating, 1 danger, 2 combiner, 1 portioner, 1 sink, 1 conveyor, 1 compactor, boards
